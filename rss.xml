@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title></title>
+      <link>https://leuter.ch</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://leuter.ch/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Hallo</title>
+          <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+          <author>Dave</author>
+          <link>https://leuter.ch/blog/release/</link>
+          <guid>https://leuter.ch/blog/release/</guid>
+          <description xml:base="https://leuter.ch/blog/release/">&lt;h3 id=&quot;hallo&quot;&gt;Hallo&lt;&#x2F;h3&gt;
+&lt;p&gt;Mir freued eus endlich üsi Musig chönne z&#x27;zeige.&lt;&#x2F;p&gt;</description>
+      </item>
+    </channel>
+</rss>
